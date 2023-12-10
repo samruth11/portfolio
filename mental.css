@@ -1,0 +1,171 @@
+body{
+    background-color:rgba(9, 11, 11, 0.964);
+    font-family: cursive;
+    color: white;
+}
+header{
+    background-image: url("https://images.unsplash.com/photo-1519120944692-1a8d8cfc107f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzh8fHdlYnNpdGUlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww");
+    background-repeat: no-repeat;
+    
+    width: 500px;
+    height: 400px;
+    padding: 7%;
+    color: black;
+    margin-bottom: 2%;
+    
+}
+header h1{
+    font-size: 3em;
+}
+section{
+    padding: 4.5%;
+    margin-left: 20%;
+    margin-right: 6%;
+    background-color: rgb(170, 15, 15);
+    color: rgb(253, 248, 248);
+    
+    block-size: 200px;
+    
+}
+section h1{
+    margin: 0%;
+    font-size: xx-large;
+    padding-left: 35%;
+    
+
+    
+}
+.mi{
+    line-height: 0%;
+
+}
+
+.mi h2{
+    margin-right:20%;
+    font-size: x-large;
+    background-color: rgb(194, 250, 109);
+    padding:1.5%;
+    padding-left: 12%;
+}
+
+
+.mi h1{
+    margin-left:30%;
+    font-size: x-large;
+    background-color: rgb(149, 109, 250);
+    padding:1.5%;
+    padding-left: 12%;
+    
+    
+}
+
+.mi h3{
+    margin-right:45%;
+    font-size: x-large;
+    background-color: rgb(47, 16, 202);
+    padding:1.5%;
+    padding-left: 12%;
+}
+.mi h4{
+    margin-left: 55%;
+    font-size: x-large;
+    background-color: rgb(246, 243, 252);
+    padding:1.5%;
+    padding-left: 12%;
+}
+.project img{
+    display:inline-flex;
+    flex-direction:column;
+    width:380px;
+    height: 250px;
+    padding: 2%;
+    padding-right: 120px;
+    padding-left: 120px;
+
+}
+.para {
+   background-color: rgba(16, 17, 16, 0.615);
+   font-size: large;
+   color: rgb(236, 230, 230);
+   
+   width:800px;
+   height: 400px;
+   margin-left: 20%;
+   margin-top: 0%;
+   margin-bottom:2%;
+   text-align: center;
+
+
+}.para{
+    padding: 0.5%;
+    text-align: center;
+}
+para:hover{
+    color: blueviolet;
+}
+.project h1{
+    text-align: center;
+    font-size: xx-large;
+    border-radius: 4px;
+    border-style: solid;
+    margin: 0% 35% 0% 35%;
+    padding: 1.5%;
+}
+.project h1:hover{
+    background-color:rgb(220, 72, 46);
+    border-color:black;
+}
+.ree {
+    text-align: center;
+    font-size: xx-large;
+    
+    border-style: solid;
+    margin: 0% 35% 0% 35%;
+    padding: 1.5%;
+    background-color: rgba(24, 215, 53, 0.642);
+    
+
+}
+.para{
+    background-color: bisque;
+    color: black;
+}
+
+    
+
+
+.ree a{
+    font-size: xx-large;
+    margin-left: 5%;
+
+}
+.intro{
+    text-align: left;
+    font-size: xx-large;
+
+}
+.ooo{
+    display: flex;
+    gap:75px ;
+    background-color: rgba(216, 21, 21, 0.913);
+}
+.ooo p{
+    text-align: center;
+    font-size: xx-large;
+    padding: 2%;
+    border-radius: 3%;
+    border-style: solid;
+    color: white;
+
+}
+.ooo img{
+    width:250px;
+    height:300px;
+}
+footer{
+    text-align: center;
+    font-size: xx-large;
+    background-color: rgba(0, 0, 0, 0.211);
+
+
+}
